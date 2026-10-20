@@ -29,6 +29,7 @@ body {
   display: flex;                  /* flex aninhado: a lista também é um container */
   gap: 1.5rem;
   list-style: none;
+  
 }
 
 .navbar__links a {
